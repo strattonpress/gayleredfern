@@ -1,0 +1,180 @@
+{
+	"authorname": "Gayle Redfern",
+	"gender": "f",
+	"featuredbooktitle": "Ancient Wisdoms",
+	"contact": [
+		{ "icon": "location", "value": "831 N Tatnall Street, Suite M #188, Wilmington, DE 19801" },
+		{ "icon": "phone", "value": "888-323-7009", "text": "Tel" },
+		{ "icon": "mail", "value": "publish@stratton-press.com", "text": "Email" }
+	],
+	"socmed": [
+		{ "type": "facebook", "link": "https://www.facebook.com/Gayle-Redfern-585002728586293" },
+		{ "type": "twitter", "link": "https://www.twitter.com/strattonpress/" },
+		{ "type": "instagram", "link": "https://www.instagram.com/strattonpress/" },
+		{ "type": "goodreads", "link": "https://www.goodreads.com/book/show/42732397-ancient-wisdoms" },
+		{ "type": "linkedin", "link": null },
+		{ "type": "googleplus", "link": null },
+		{ "type": "youtube", "link": null }
+	],
+	"mainmenu": [
+		{ "link": "/", "text": "Home" },
+		{ "link": "/author/", "text": "Author" },
+		{ "link": "/books/", "text": "Books" },
+		{ "link": "/contact/", "text": "Contact" }
+	],
+	"home": [
+		{
+			"banner": "Whoever said that we are better working independently is slightly misguided. I have been interested in spirituality all my life and an acknowledged psychic for almost 30 years. . .",
+			"synopsis": "Gayle Redfern's interest in spirituality has been life-long. This led to her degrees in psychology and holistic health. As a psychic, lecturer, motivational speaker and author of three books, Inner Bridges, Ayurveda Demystystified and Within & Beyond, she introduces us to the value of ancient knowledge as a means of bringing peace and harmony into our lives. Many cultures learned these values millennia ago. Today, she shares the significance of applying ancient beliefs and laws to modern society. When individuals apply our ancient's beliefs to daily living, they bring their body, mind and spirit into balance. Each individual balance then transfers over to the entire community. As she continually explores various societies, she sees how some cultures achieve this communal harmony while other groups lose the peace. Through her fourth book, she reacquaints us with the world's ancient teachings.",
+			"amazonlink": "https://www.amazon.com/Ancient-Wisdoms-Gayle-Redfern/dp/1948654199/"
+		}
+	],
+	"reviews": [
+		{
+			"content": "A while back, I realized there was so much ancient knowledge held by indigenous people and so many today seems to have forgotten these teachings. There are lessons of ancient cultures that can help us understand the present. I discovered connections we tend to ignore. Cultures around the world are associated and share joys and wisdom. My spiritual connections introduced three animals who carried this knowledge, the Owls carry the knowledge, the Doves carry the peace and the butterflies transformed this wisdom into a usable form.",
+			"rating": "5",
+			"reviewer": "Amazon Customer"
+		},
+		{
+			"content": "The author, Gayle Redfern, felt guided by her spiritual connections to write a book about the teachings and guidelines of the indigenous world. In doing so, she wrote “Ancient Wisdoms:Exploring the Mysteries and Connections.” She recognizes that much of our modern society has forgotten the teachings of the past. She tells us, “Following the lessons of the Ancients helps us understand the present.”",
+			"rating": "5",
+			"reviewer": "Paige Lovitt for Reader Views (01/10)"
+		},
+		{
+			"content": "Have you wondered why it is important to explore Ancient Wisdom? What effect do they have on your life today? Ancient Wisdom, Exploring the Mysteries and Connections by Gayle Redfern is an enjoyable read. Reader Views states:",
+			"rating": "5",
+			"reviewer": "Gayle Redfern"
+		},
+		{
+			"content": "Also, as per our marketing researcher's report, a very powerful factor that would help us position your book in the market better would be for your book/s to be professionally reviewed by a known entity. In this case, we've reached out to the US Review of Books.",
+			"rating": "5",
+			"reviewer": "Amazon Customer"
+		},
+		{
+			"content": "In addition, Eric Hoffer Award honors include various prizes within eighteen all market better would be for your book/s to be professionally reviewed by a known entity. In this case, we've reached out to the US Review of Books. The US Review of Books connects authors with professional book reviewers and places their book reviews in front of 18,744 subscribers to their free monthly newsletter of fiction book reviews and nonfiction book reviews.",
+			"rating": "5",
+			"reviewer": "Amazon Customer"
+		}
+	],
+	"abouttheauthor": [
+		{
+			"left": [
+				"Whoever said that we are better working independently is slightly misguided. I have been interested in spirituality all my life and an acknowledged psychic for almost 30 years. It was my husband who encouraged my work as a health consultant, medium, writer, workshop leader and speaker. The benefits are now enjoyed by my husband, myself and all readers of my work.",
+				"As a conscious channel, I combine these gifts with the learning from university degrees in Psychology and Wholistic Health. My health consulting included Ayurveda, floral and crystal essences, balancing and counseling. Early publications were completely channeled and gradually, my guides gave me titles and then led me to sources of pertinent data.",
+				"Everything was directed to bring balance of body, mind and spirit with the planet.",
+				"One of the most recent and powerful instructions was hearing elders from the four corners pleading with humans to act responsibly and repair the damage done to the Earth. This information led to motivating Elders and Community laymen to discover how to ask pertinent questions or share information. Not only was the information isolated within a community but it showed how we are all linked together and is a motivating tool to heal the planet. Ancient Wisdoms, Exploring the Mysteries and Connections, my last publication provides details of the philosophical links. The current book, Ancient Wisdoms II, Many Corners, Many Voices provides in-depth details of the four corners, motivating both Elders and the Layman to ask the pertinent questions that provides details that will lead to the actual steps of healing between humans and the planet."
+			],
+			"right": [
+				""
+			]
+		}
+	],
+	"aboutthebook": [
+		{
+			"booktitle": "Ancient Wisdoms",
+			"bookimage": "/book.jpg",
+			"synopsis": [
+				"Gayle Redfern’s interest in spirituality has been life-long. This led to her degrees in psychology and holistic health. As a psychic, lecturer, motivational speaker and author of three books, Inner Bridges, Ayurveda Demystystified and Within & Beyond, she introduces us to the value of ancient knowledge as a means of bringing peace and harmony into our lives. Many cultures learned these values millennia ago. Today, she shares the significance of applying ancient beliefs and laws to modern society. When individuals apply our ancient’s beliefs to daily living, they bring their body, mind and spirit into balance. Each individual balance then transfers over to the entire community. As she continually explores various societies, she sees how some cultures achieve this communal harmony while other groups lose the peace. Through her fourth book, she reacquaints us with the world’s ancient teachings."
+			],
+			"booklinks": [
+				{
+					"type": "E-book",
+					"items": [
+						{ "text": "Amazon", "link": "https://www.amazon.com/ANCIENT-WISDOMS-Gayle-Redfern-ebook/dp/B07BHWL5SN/" },
+						{ "text": "Stratton Press", "link": "https://stratton-press.com/books/ancient-wisdoms-exploring-the-mysteries-and-connections/" },
+						{ "text": "Barnes & Noble", "link": "https://www.barnesandnoble.com/w/ancient-wisdoms-gayle-redfern/1136824999?ean=9781948654203" }
+					]
+				},
+				{
+					"type": "Paperback",
+					"items": [
+						{ "text": "Amazon", "link": "https://www.amazon.com/Ancient-Wisdoms-Gayle-Redfern/dp/1948654199/" },
+						{ "text": "Barnes & Noble", "link": "https://www.barnesandnoble.com/w/ancient-wisdoms-gayle-redfern/1136824999" },
+						{ "text": "Books-A-Million", "link": "https://www.booksamillion.com/p/Ancient-Wisdoms/Gayle-Redfern/9781948654197" }
+					]
+				}
+			]
+		},
+		{
+			"booktitle": "Inner Bridges: Opening Your Connection to Inner Peace and Harmony, 2nd Edition",
+			"bookimage": "/book02.jpg",
+			"synopsis": [
+				"The Dalai Lama has given many talks about peace and how we all contribute to world peace. He says “The world doesn’t belong to just leaders; the world belongs to all humanity.” He argues that global peace comes through meditation which can only be achieved through bringing the individual body into balance, the vibrational energy of the entire inner being. We cannot alter our surroundings which hold the peace until we have this balance and peace within us. The channeled information in this book gives insight into the power within us, the power of our local region and how we balance our body, mind, spirit and the world around us. It shows how to use meditation, food, colors, nature and social settings to achieve this balance. Once you gain inner balance, these tools help balance everything around you. The key to begin is Live Local, Live Simple. This is the first step."
+			],
+			"booklinks": [
+				{
+					"type": "E-book",
+					"items": [
+						{ "text": "Amazon", "link": "https://www.amazon.com/Inner-Bridges-Opening-Connection-Harmony-ebook/dp/B082MSTVWY/" },
+						{ "text": "Barnes & Noble", "link": "https://www.barnesandnoble.com/w/inner-bridges-ma-gayle-redfern/1135498640?ean=9781643458151" }
+					]
+				},
+				{
+					"type": "Paperback",
+					"items": [
+						{ "text": "Amazon", "link": "https://www.amazon.com/Inner-Bridges-Opening-Connection-Harmony/dp/1643452134/" },
+						{ "text": "Barnes & Noble", "link": "https://www.barnesandnoble.com/w/inner-bridges-ma-gayle-redfern/1135498640" },
+						{ "text": "Books-A-Million", "link": "https://www.booksamillion.com/p/Inner-Bridges/M-a-Gayle-Redfern/9781643452135" }
+					]
+				}
+			]
+		},
+		{
+			"booktitle": "Within and Beyond",
+			"bookimage": "/book03.jpg",
+			"synopsis": [
+				"Within & Beyond, The Connection takes complex concepts that have been around for many years, explaining how the earth and the universe are connected, pulling the magnetic energy up from the Earth and the electrical energy down from the Universe. This merger flows into each cell forming a star tetrahedron providing the wisdom of life for each of us. This channeled information defines the dimension as -Planes of Reference and Cosmic Life Pattern(CLP) as the internal genetic coding for each individual. As well as the channeled information presented here, Within & Beyond brings us historic quotes such as the one from Bob Frissell book “Nothing in this book is true But it’s exactly how things are.” My analysis is “Everything in this book is true, and its exactly how things have always been”."
+			],
+			"booklinks": [
+				{
+					"type": "E-book",
+					"items": [
+						{ "text": "Amazon", "link": "https://www.amazon.com/Within-Beyond-Connection-Gayle-Redfern-ebook/dp/B084D6G3T5/" },
+						{ "text": "Barnes & Noble", "link": "https://www.barnesandnoble.com/w/within-and-beyond-gayle-redfern/1136287282?ean=9781643458519" }
+					]
+				},
+				{
+					"type": "Paperback",
+					"items": [
+						{ "text": "Amazon", "link": "https://www.amazon.com/Within-Beyond-Connection-Gayle-Redfern/dp/1643454609/" },
+						{ "text": "Barnes & Noble", "link": "https://www.barnesandnoble.com/w/within-and-beyond-gayle-redfern/1136287282" },
+						{ "text": "Books-A-Million", "link": "https://www.booksamillion.com/p/Within-Beyond/Gayle-Redfern/9781643454603" }
+					]
+				}
+			]
+		},
+		{
+			"booktitle": "Ayurveda Demystified",
+			"bookimage": "/book04.jpg",
+			"synopsis": [
+				"Introducing Ayurveda into Western living involves understanding a new language, new philosophy and new lifestyle, not an easy task. However as an instructor, I quickly discovered that the wisdom is worth pursuing; following this modified basic wisdom taught in the accompanying class became an easy task. As an instructor of the introductory Ayurveda class, I re-named the body’s three energy flows based upon Ayurveda Sanskrit terms.  The Sanskrit terms — Vata, Pitta and Kapha became the appropriate Western functions – movement, processing and storage. Ayurveda Demystified helps an individual identify their personal dominant energy flow. With this knowledge, they can look for and apply the best remedies or foods for a healthy body. The next step is a choice.  Do they stay with this amount of information or expanding their knowledge?"
+			],
+			"booklinks": [
+				{
+					"type": "E-book",
+					"items": [
+						{ "text": "Amazon", "link": "https://www.amazon.com/Ayurveda-Demystified-Optimum-Western-Living-ebook/dp/B084D18J58/" },
+						{ "text": "Barnes & Noble", "link": "https://www.barnesandnoble.com/w/ayurveda-demystified-gayle-redfern/1136287288?ean=9781643457482" }
+					]
+				},
+				{
+					"type": "Paperback",
+					"items": [
+						{ "text": "Amazon", "link": "https://www.amazon.com/Ayurveda-Demystified-Optimum-Western-Living/dp/1643453289/" },
+						{ "text": "Barnes & Noble", "link": "https://www.barnesandnoble.com/w/ayurveda-demystified-gayle-redfern/1136287288" },
+						{ "text": "Books-A-Million", "link": "https://www.booksamillion.com/p/Ayurveda-Demystified/Gayle-Redfern/9781643453286" }
+					]
+				}
+			]
+		}
+	],
+	"footermenu": [
+		{ "link": "/", "text": "Home" },
+		{ "link": "/author/", "text": "Author" },
+		{ "link": "/books/", "text": "Books" },
+		{ "link": "/contact/", "text": "Contact" },
+		{ "link": "/privacy-policy/", "text": "Privacy Policy" },
+		{ "link": "/terms-and-conditions/", "text": "Terms and Conditions" }
+	],
+	"copyrightyear": "2018"
+}
