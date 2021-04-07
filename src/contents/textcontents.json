@@ -81,7 +81,6 @@
 					"type": "E-book",
 					"items": [
 						{ "text": "Amazon", "link": "https://www.amazon.com/ANCIENT-WISDOMS-Gayle-Redfern-ebook/dp/B07BHWL5SN/" },
-						{ "text": "Stratton Press", "link": "https://stratton-press.com/books/ancient-wisdoms-exploring-the-mysteries-and-connections/" },
 						{ "text": "Barnes & Noble", "link": "https://www.barnesandnoble.com/w/ancient-wisdoms-gayle-redfern/1136824999?ean=9781948654203" }
 					]
 				},
